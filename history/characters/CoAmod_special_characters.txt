@@ -1,0 +1,37 @@
+﻿202091115 = {
+	name = "Renly"
+	dynasty = 9998671
+	dna = Renly_dna
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = italian
+	trait = education_martial_3
+	1050.1.2 = {
+		birth = "1050.1.2"
+	}
+	1108.1.2 = {
+		death = "1108.1.2"
+	}
+}
+202091116 = {
+	name = "Margaery"
+	dynasty = 9998672
+	dna = Margaery_dna
+	female = yes
+	martial = 2
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = italian
+	trait = education_stewardship_3
+	1055.6.2 = {
+		birth = "1055.6.2"
+	}
+	1114.1.2 = {
+		death = "1114.1.2"
+	}
+}

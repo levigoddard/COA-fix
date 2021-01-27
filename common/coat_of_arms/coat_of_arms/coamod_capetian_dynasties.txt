@@ -1,0 +1,3 @@
+house_valois = d_valois
+house_bourbon = d_bourbon
+house_bourgogne = k_capet_bourgogne

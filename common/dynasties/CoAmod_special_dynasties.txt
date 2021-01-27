@@ -1,0 +1,10 @@
+﻿9998671 = {
+	name = "dynn_Baratheon"
+	culture = "italian"
+	motto = dynn_Baratheon_motto
+}
+9998672 = {
+	name = "dynn_Tyrell"
+	culture = "italian"
+	motto = dynn_Tyrell_motto
+}

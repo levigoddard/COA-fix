@@ -1,0 +1,5 @@
+﻿12476 = {
+	prefix = "dynnp_von"
+	name = "c_zollern"
+	culture = "swabian"
+}

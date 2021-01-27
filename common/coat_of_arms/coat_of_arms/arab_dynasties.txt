@@ -1,0 +1,51 @@
+7296  = { # Hashimid
+	pattern = "pattern_solid.dds"
+	color1 = "red"
+	color2 = "white"	
+	colored_emblem = {
+		texture = "ce_arabic_basmala.png"
+		color1 = "white"
+		color2 = "white"		
+		instance = { position = { 0.5 0.48 } scale = { 1.0 1.2 } }	
+	}		
+}
+589 = { # Fatimid
+	pattern = "pattern_solid.dds"
+	color1 = "green"
+	color2 = "yellow"	
+	colored_emblem = {
+		texture = "ce_arabic_shahada_circle.png"
+		color1 = "yellow"
+		color2 = "yellow"		
+		instance = { position = { 0.5 0.48 } }	
+	}	
+}
+597 = { # Umayyad
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "black"	
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}	
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 0.70 0.70 }  }		
+	}		
+	colored_emblem = {
+		texture = "ce_border_circle_fimbriated.dds"
+		color1 = "white"
+		color2 = "black"
+		instance = { position = { 0.5 0.48 } scale = { 0.75 0.75 }  }		
+	}		
+	colored_emblem = {
+		texture = "ce_arabic_basmala_kufic.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { position = { 0.5 0.48 } scale = { 0.64 0.64 }  }					
+	}
+}
