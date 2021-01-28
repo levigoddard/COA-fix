@@ -1,0 +1,139 @@
+alvanite_group = {
+	
+	graphical_cultures = {
+		byzantine_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		byzantine_clothing_gfx
+		eastern_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = mercenary_company_manglabites }
+		{ name = "mercenary_company_the_ten_thousand" }
+	}
+
+	albanian = {
+
+		color = { 0.4 0.01 0.02 }
+
+		cadet_dynasty_names = {
+			"dynn_Alia"
+			"dynn_Bajramovic"
+			"dynn_Luzaj"
+			"dynn_Fazliu"
+			"dynn_Bizi"
+			"dynn_Peco"
+			"dynn_Gashi"
+			"dynn_Gjonaj"
+			"dynn_Gecaj"
+			"dynn_Kongoli"
+			"dynn_Surroi"
+			"dynn_Mala"
+			"dynn_Januzaj"
+			"dynn_Bardha"
+			"dynn_Ziberi"
+			"dynn_Sapunxiu"
+			"dynn_Vulaj"
+			"dynn_Ymeri"
+			"dynn_Sava"
+			"dynn_Agolli"
+			"dynn_Carcani"
+			"dynn_Budo"
+			"dynn_Bardhi"
+			"dynn_Bardulla"
+			"dynn_Xhaferi"
+			"dynn_Vllasi"
+			"dynn_Daci"
+			"dynn_Latifi"
+			"dynn_Ramadani"
+			"dynn_Dragusha"
+			"dynn_Prishtina"
+			"dynn_Zhulati"
+			"dynn_Xhanari"
+			"dynn_Hysi"
+			"dynn_Mali"
+			"dynn_Petrela"
+			"dynn_Tatari"
+			"dynn_Smajlaj"
+			"dynn_Galimuna"
+			"dynn_KoC_i"
+			"dynn_Tahiri"
+			"dynn_NaC_i"
+			"dynn_Hamiti"
+			"dynn_Bazhunaishvili"
+			"dynn_Gozhita"
+			"dynn_Manjani"
+			"dynn_Shehu"
+			"dynn_Demisovski"
+			"dynn_Reufi"			
+		}
+
+		dynasty_names = {
+			"dynn_Alia"
+			"dynn_Bajramovic"
+			"dynn_Luzaj"
+			"dynn_Fazliu"
+			"dynn_Bizi"
+			"dynn_Peco"
+			"dynn_Gashi"
+			"dynn_Gjonaj"
+			"dynn_Gecaj"
+			"dynn_Kongoli"
+			"dynn_Surroi"
+			"dynn_Mala"
+			"dynn_Januzaj"
+			"dynn_Bardha"
+			"dynn_Ziberi"
+			"dynn_Sapunxiu"
+			"dynn_Vulaj"
+			"dynn_Ymeri"
+			"dynn_Sava"
+			"dynn_Agolli"
+			"dynn_Carcani"
+			"dynn_Budo"
+			"dynn_Bardhi"
+			"dynn_Bardulla"
+			"dynn_Xhaferi"
+			"dynn_Vllasi"
+			"dynn_Daci"
+			"dynn_Latifi"
+			"dynn_Ramadani"
+			"dynn_Dragusha"
+			"dynn_Prishtina"
+			"dynn_Zhulati"
+			"dynn_Xhanari"
+			"dynn_Hysi"
+			"dynn_Mali"
+			"dynn_Petrela"
+			"dynn_Tatari"
+			"dynn_Smajlaj"
+			"dynn_Galimuna"
+			"dynn_KoC_i"
+			"dynn_Tahiri"
+			"dynn_NaC_i"
+			"dynn_Hamiti"
+			"dynn_Bazhunaishvili"
+			"dynn_Gozhita"
+			"dynn_Manjani"
+			"dynn_Shehu"
+			"dynn_Demisovski"
+			"dynn_Reufi"			
+		}
+
+		male_names = {
+			Abid Adriatik Afak Afjif Afraz Afzal Agimor Ahdan Ajan Akall Albion Amantin Amat Amr Anastas Arbenor Arbian Arbiolina Arbor Argjel Argjend Argon Arianit Artan Artor Artoran Ashfak Balan Bamur Bardhani Barjet Baton Batul Batun Batush Bekir Bilind Bled Bleran Bletor Bret Briken Buja Bulezim Cemtar Dash Dazem Deda Detar Dhelk Diell Dilaver Dimal Ditmir Dodë Dokë Donjet Drenaz Dsantil Edrin Erlul Etrit Fajkot Fillor Flamurtar Flatror Fluturak Foltar Gazmin Geldon Gjik Gramoz Gurran Halil Hieshor Hyske Ilirjet Jetish Jetlum Joniar Kemal Klestor Korab Labeat Laid Lalosh Lartim Lason Lir Loran Lucë Luftarak Lulash Lulbardh Lulmaj Malbor Malton Marash Martin Mbarjet Melaim Milon Mirlind Molos Mufull Nandi Nart Pajti Parver Pinjoll Pirro Plarentin Prekatar Pëllumb Përnar Ramadan Rudor Sali Samur Sandë Shend Shinasi Shpat Shpel Sibal Simo Skirt Spiro Sybukur Tarion Tefik Temal Ternil Tomor Tufar Tuliran Ucan Ulqin Urtar Vardon Velson Vepran Vezullim Vidan Vidush Vleran Vukel Yllkuq Zaimin Zjarror Çerkez
+		}
+		
+		female_names = {
+			Afta Ahmeti Ajkuna Aleksand Altina Ando Antiam Aranit Argjel Artana Artin Aurel Balleze Ballmira Bardhyl Barids Batuja Batusha Bejka Besnike Bezan Bitila Blerime Bleruan Bletana Blimir Blirime Brela Briga Bujaria Bukurosh Dajza Dasanta Dasaret Dazema Desa Dindare Ditona Dituror Ditvera Dranjash Drini Dushkor Dëshir Enkela Erblin Erza Etleva Fidan Filja Fillor Fitore Galdime Gash Gazjon Gazlinda Genc Gjina Gojarta Hira Hëna Hënore Jetan Jetbardh Jetmira Jetnor Jetosh Kadare Klestore Koela Krojza Landroja Led Liriza Lizja Mahmut Manar Mbarësia Medona Mendime Mendore Mermire Mirgjine Miriana Mjaltina Mjaltore Nderbardha Nderor Neritana Ngazëllime Nëmtorina Orgeta Panent Petrite Plaina Pohime Pëllumbesha Qershore Rilindje Robert Rrezedita Rron Samira Sarmina Sationa Sentona Shendver Sheqere Shkëndijor Simon Skiftere Stolie Sutosha Symir Tataja Temale Teutona Thanush Tritana Tush Ulban Urtash Usiana Uskana Vasil Veprimtar Vezullonja Vishkullore Vjeshtore Vlastar Vlerana Vokëla Vukel Yllore Zamira
+		}
+		
+		dynasty_of_location_prefix = "dynnp_e"
+		
+		ethnicities = {
+			10 = mediterranean_byzantine
+		}
+	}
+	
+}

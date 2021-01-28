@@ -1,0 +1,108 @@
+euskalic_group = {
+	
+	graphical_cultures = {
+		iberian_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = mercenary_company_almogavars_1 }
+		{ name = mercenary_company_almogavars_2 }
+	}
+
+	basque = {
+		
+		color = { 0.55 0.42 0.04 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Agurto" }
+			{ "dynnp_de" "dynn_Vizcaya" }
+			{ "dynnp_d_" "dynn_A_valos" }
+			{ "dynnp_de" "dynn_BazA_n" }
+			{ "dynnp_de" "dynn_NA_jera" }
+			{ "dynnp_de" "dynn_Noboa" }
+			{ "dynnp_de" "dynn_Vidaure" }
+			{ "dynnp_de" "dynn_Azagra" }
+			"dynn_Benavides"
+			{ "dynnp_de" "dynn_ZU_N_iga" }
+			"dynn_Coronel"
+			{ "dynnp_de" "dynn_Viguera" }
+			{ "dynnp_de" "dynn_Cea" }
+			"dynn_Cajal"
+			{ "dynnp_de" "dynn_los_Cameros" }
+			{ "dynnp_de" "dynn_EstI_baliz" }
+			{ "dynnp_de" "dynn_Viscaya" }
+			{ "dynnp_de" "dynn_La_Rioja" }
+			{ "dynnp_de" "dynn_Jaca" }
+			{ "dynnp_de" "dynn_Laturce" }
+			"dynn_LadrO_n_de_Guevara"
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Agurto" }
+			{ "dynnp_de" "dynn_Vizcaya" }
+			{ "dynnp_d_" "dynn_A_valos" }
+			{ "dynnp_de" "dynn_BazA_n" }
+			{ "dynnp_de" "dynn_NA_jera" }
+			{ "dynnp_de" "dynn_Noboa" }
+			{ "dynnp_de" "dynn_Vidaure" }
+			{ "dynnp_de" "dynn_Azagra" }
+			"dynn_Benavides"
+			{ "dynnp_de" "dynn_ZU_N_iga" }
+			"dynn_Coronel"
+			{ "dynnp_de" "dynn_Viguera" }
+			{ "dynnp_de" "dynn_Cea" }
+			"dynn_Cajal"
+			{ "dynnp_de" "dynn_los_Cameros" }
+			{ "dynnp_de" "dynn_EstI_baliz" }
+			{ "dynnp_de" "dynn_Viscaya" }
+			{ "dynnp_de" "dynn_La_Rioja" }
+			{ "dynnp_de" "dynn_Laturce" }
+			"dynn_LadrO_n_de_Guevara"
+		}
+
+		male_names = {
+			Alfontso Alvar Antso Armengol Aznar Belasko Bermudo Bernart Diego Donato
+			Egidio Eneko Erramun Fernando Filipe Fortun Galindo Gartzia Gil Gilen
+			Gomez Gontzal Henrique Herramel Jakue Joanes Karlos Kasio Ladron Lope
+			Luis Manrike MartI_n Munio NuN_o Obeko OrdoN_o Pelaio Piarres Ramiro
+			Rodrigo Suero Tibalt Vela Ximeno Zentulo
+
+#			Abdala Isa Ismail Mohamed Motarrif Muza Saad Salama Taur Yahya Yunus Zahir
+		}
+		female_names = {
+			Adalais Aines Alausia Aldontza Anderkina Andregoto Antsa Assona Ava Azibella
+			Beatritz Belaskita Berengaria Blanka Briska Elbira Elisabet Eliza Emili Endulcia
+			Ermesinda Estefania Fakilo Fronilde Gersenda Guntroda Joana Katalina Kisilo Konstantzia
+			Leonor Maior Maria Matilda Matrona Mentzia Munia Muniadona Nunila NuN_a
+			Oneka Oria Plazentzia Tekla Teresa Toda Toda-Adalais Urraka Ximena
+		
+#			Awriya
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+		
+		patronym_suffix_male = "dynnpat_suf_ez"
+		patronym_suffix_female = "dynnpat_suf_ez"
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 5
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 55
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+
+		ethnicities = {
+			10 = mediterranean
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_nafarroako_konpainia" coat_of_arms = "mc_nafarroako_konpainia" }
+		}
+	}
+	
+}

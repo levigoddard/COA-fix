@@ -1,0 +1,539 @@
+occitanic_group = {
+	graphical_cultures = {
+		frankish_group_coa_gfx
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	mercenary_names = {
+	}
+	
+	occitan = {
+		graphical_cultures = {
+			mediterranean_building_gfx
+			occitan_coa_gfx
+		}
+		
+		color = { 198 115 111 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Rodez" }
+			{ "dynnp_de" "dynn_Bergerac" }
+			{ "dynnp_de" "dynn_L_isle_Jourdain" }
+			{ "dynnp_de" "dynn_Poitiers-Valentinois" }
+			"dynn_Trencval"
+			{ "dynnp_de" "dynn_ChA_tellerault" }
+			{ "dynnp_de" "dynn_Rancon" }
+			{ "dynnp_de" "dynn_Guyenne" }
+			{ "dynnp_de" "dynn_Bezieres" }
+			{ "dynnp_de" "dynn_Arelat" }
+			{ "dynnp_de" "dynn_Ponthieu" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Aquitaine" }
+			{ "dynnp_de" "dynn_PontevE_s" }
+			{ "dynnp_de" "dynn_Sabran" }
+			{ "dynnp_de" "dynn_Crussol" }
+			{ "dynnp_de" "dynn_Quatrebarbes" }
+			{ "dynnp_de" "dynn_la_Panouse" }
+			{ "dynnp_de" "dynn_LE_vezou" }
+			{ "dynnp_de" "dynn_la_Rochelambert" }
+			{ "dynnp_de" "dynn_Cadoine" }
+			{ "dynnp_de" "dynn_Kerret" }
+			{ "dynnp_de" "dynn_Donges" }
+			{ "dynnp_de" "dynn_Rouvray" }
+			{ "dynnp_de" "dynn_Poissy" }
+			{ "dynnp_de" "dynn_Cayeux" }
+			{ "dynnp_de" "dynn_Beaujeu" }
+			{ "dynnp_de" "dynn_Gourdon" }
+			{ "dynnp_d_" "dynn_Anduze" }
+			{ "dynnp_de" "dynn_Puylaurens" }
+			{ "dynnp_de" "dynn_Castelbon" }
+			{ "dynnp_de" "dynn_Fenolhet" }
+			{ "dynnp_de" "dynn_FontiE_s" }
+			{ "dynnp_d_" "dynn_OmE_las" }
+			{ "dynnp_de" "dynn_Montaner" }
+			"dynn_Faucoi"
+			{ "dynnp_de" "dynn_Got" }
+			{ "dynnp_de" "dynn_Montcatanier" }
+			{ "dynnp_de" "dynn_Caylus" }
+			{ "dynnp_de" "dynn_Trians" }
+			{ "dynnp_de" "dynn_Gavarret" }
+			{ "dynnp_d_" "dynn_UzE_s" }
+			{ "dynnp_de" "dynn_Villars" }
+			{ "dynnp_de" "dynn_Rovignan" }
+			{ "dynnp_de" "dynn_La_Valette" }
+			{ "dynnp_d_" "dynn_Amalric" }
+			{ "dynnp_le" "dynn_Bourg" }
+			{ "dynnp_de" "dynn_Blanchegard" }
+			{ "dynnp_de" "dynn_Villaret" }
+			{ "dynnp_d_" "dynn_Aubusson" }
+			{ "dynnp_de" "dynn_Montferrand" }
+			{ "dynnp_de" "dynn_Poitiers" }
+			{ "dynnp_de" "dynn_Bordeaux" }
+			{ "dynnp_d_" "dynn_Albret" }
+			{ "dynnp_de" "dynn_Labourd" }
+			{ "dynnp_de" "dynn_Foix" }
+			{ "dynnp_de" "dynn_RosellO_" }
+			{ "dynnp_de" "dynn_Narbonne" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Agen" }
+			{ "dynnp_de" "dynn_Rouergue" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Venaissin" }
+			{ "dynnp_de" "dynn_Charolais" }
+			{ "dynnp_de" "dynn_Forcalquier" }
+			{ "dynnp_de" "dynn_Nice" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Rodez" }
+			{ "dynnp_de" "dynn_Bergerac" }
+			{ "dynnp_de" "dynn_L_isle_Jourdain" }
+			{ "dynnp_de" "dynn_Poitiers-Valentinois" }
+			"dynn_Trencval"
+			{ "dynnp_de" "dynn_ChA_tellerault" }
+			{ "dynnp_de" "dynn_Rancon" }
+			{ "dynnp_de" "dynn_Guyenne" }
+			{ "dynnp_de" "dynn_Bezieres" }
+			{ "dynnp_de" "dynn_Arelat" }
+			{ "dynnp_de" "dynn_Ponthieu" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Aquitaine" }
+			{ "dynnp_de" "dynn_PontevE_s" }
+			{ "dynnp_de" "dynn_Sabran" }
+			{ "dynnp_de" "dynn_Crussol" }
+			{ "dynnp_de" "dynn_Quatrebarbes" }
+			{ "dynnp_de" "dynn_la_Panouse" }
+			{ "dynnp_de" "dynn_LE_vezou" }
+			{ "dynnp_de" "dynn_la_Rochelambert" }
+			{ "dynnp_de" "dynn_Cadoine" }
+			{ "dynnp_de" "dynn_Kerret" }
+			{ "dynnp_de" "dynn_Donges" }
+			{ "dynnp_de" "dynn_Rouvray" }
+			{ "dynnp_de" "dynn_Poissy" }
+			{ "dynnp_de" "dynn_Cayeux" }
+			{ "dynnp_de" "dynn_Beaujeu" }
+			{ "dynnp_de" "dynn_Gourdon" }
+			{ "dynnp_d_" "dynn_Anduze" }
+			{ "dynnp_de" "dynn_Puylaurens" }
+			{ "dynnp_de" "dynn_Castelbon" }
+			{ "dynnp_de" "dynn_Fenolhet" }
+			{ "dynnp_de" "dynn_FontiE_s" }
+			{ "dynnp_d_" "dynn_OmE_las" }
+			{ "dynnp_de" "dynn_Montaner" }
+			"dynn_Faucoi"
+			{ "dynnp_de" "dynn_Got" }
+			{ "dynnp_de" "dynn_Montcatanier" }
+			{ "dynnp_de" "dynn_Caylus" }
+			{ "dynnp_de" "dynn_Trians" }
+			{ "dynnp_de" "dynn_Gavarret" }
+			{ "dynnp_d_" "dynn_UzE_s" }
+			{ "dynnp_de" "dynn_Villars" }
+			{ "dynnp_de" "dynn_Rovignan" }
+			{ "dynnp_de" "dynn_La_Valette" }
+			{ "dynnp_d_" "dynn_Amalric" }
+			{ "dynnp_le" "dynn_Bourg" }
+			{ "dynnp_de" "dynn_Blanchegard" }
+			{ "dynnp_de" "dynn_Villaret" }
+			{ "dynnp_d_" "dynn_Aubusson" }
+			{ "dynnp_de" "dynn_Montferrand" }
+			{ "dynnp_de" "dynn_Poitiers" }
+			{ "dynnp_de" "dynn_Bordeaux" }
+			{ "dynnp_d_" "dynn_Albret" }
+			{ "dynnp_de" "dynn_Labourd" }
+			{ "dynnp_de" "dynn_Foix" }
+			{ "dynnp_de" "dynn_RosellO_" }
+			{ "dynnp_de" "dynn_Narbonne" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Agen" }
+			{ "dynnp_de" "dynn_Rouergue" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Venaissin" }
+			{ "dynnp_de" "dynn_Charolais" }
+			{ "dynnp_de" "dynn_Forcalquier" }
+			{ "dynnp_de" "dynn_Nice" }
+		}
+
+		male_names = {
+			AdhE_mar Acfred Aimeric Alberic Albert Aldebert Alias AnfO_s Amalric Amaneus Ancelmes AndrE_ Archambaut Arnaut Artau Aton AudoI_n Aymar Aymeric Aznar
+			Barral BartoumiE_u BaudoI_n Beneset BE_rard BerenguiE_ Bermond Bernat Bernat-Aton Bernat-Ezi Bertrand Blasi Borel Boson Carles
+			ClamenC_ Centolh DA_vi Dat Dodon Doumenge Duran Ebles EmmanuE_l Enric Ermengau EstE_ve Filip
+			Ferrand FlorE_nC_ Folquet FrancE_s Frederi Garcia Gaston Gausbert Gautier GilbE_rt Girard Girvais Godafres
+			Gui Guichard Guigues GuilhE_m Guiraud Guitart Ives Jacme Jaufret Joan Jordan Jorge
+			Josselin Julian LaurE_nC_ Leon LoI_s Loui Lop MarC_au Martin Matfre Matias Milo Miquel
+			Nicholaus Odon Otton PE_ire PE_ire-Arnaut PE_ire-Raimond Peranudet Pol Pons Raimond Raimond-BerenguiE_ Rainaut Rainer
+			Raolf Ricard RobE_rt Rogier Sancho Savarics Simon TiE_rri Tibaud Toumas Ubald Ubert Uc Ugues
+			VE_zian VicenC_
+		}
+		female_names = {
+			AdE_la AdalaI_da Adeltrudis Agata AI_na AinE_s AlaI_s AlienO_r AliC_ AlmO_dis AlpaI_s Ana Arsenda Assalhida Ava
+			AzalaI_s Azelma BO_na Beatritz Berenguela Berta Blanca Brandimena Bregida Brunissenda Camila CarlO_ta Caterina Cecilia
+			Clara Clarmonda ClemE_ncia Cloutilda ConstA_ncia DolC_a EisabE_u Elena
+			Elisa ElisabE_ta Ermengarda Ermessentz Esclarmonda Estefania EufE_mia Eufrosina
+			Faidida Filipa Filomena FlO_ra Francesa Garcenda Geneviva GerbE_rga Gersenda Gisla Guigone Guilheumina Heloise
+			Ioulanda IsabE_u IsabE_la Joana Juliana LU_cia Laura LoI_sa Mabila Madalena
+			Margarida Maria Marquisa Marta MascarO_sa Matilda MelisE_nda Navar Patricia PeironE_la
+			Petronilha Puelle Raisenda Raimonda RichE_nda RosE_la Rosa SanC_a Sibilla TerE_sa Tiborg Verounica Violent
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+		grammar_transform = french
+		
+		patronym_suffix_male = "dynnpat_suf_enc"
+		patronym_suffix_female = "dynnpat_suf_enc"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			10 = caucasian_blond
+			5 = caucasian_ginger
+			45 = caucasian_brown_hair
+			35 = caucasian_dark_hair
+		}
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_routiers_of_the_archpriest" }
+			{ name = "mercenary_company_host_of_the_viscount" }
+			{ name = "mercenary_company_marchers_of_wasconia" }
+		}
+	}
+	
+	catalan = {
+		
+		color = { 196 140 104 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Mallorca" }
+			{ "dynnp_d_" "dynn_EntenC_a" }
+			{ "dynnp_d_" "dynn_Urgell" }
+			{ "dynnp_de" "dynn_Vilademuls" }
+			{ "dynnp_d_" "dynn_Anoia" }
+			{ "dynnp_d_" "dynn_AragO_" }
+			{ "dynnp_de" "dynn_Montcada" }
+			{ "dynnp_de" "dynn_LluC_A_" }
+			{ "dynnp_d_" "dynn_EmpU_ries" }
+			{ "dynnp_de" "dynn_Ribera" }
+			{ "dynnp_d_" "dynn_Urgell" }
+			"dynn_Barcino"
+			{ "dynnp_de" "dynn_ValE_ncia" }
+			{ "dynnp_de" "dynn_Gandia" }
+			{ "dynnp_d_" "dynn_AragO_" }
+			{ "dynnp_de" "dynn_Villena" }
+			{ "dynnp_de" "dynn_Figueroa" }
+			"dynn_Desllor"
+			{ "dynnp_de" "dynn_Tost" }
+			{ "dynnp_de" "dynn_CastellbO_" }
+			{ "dynnp_de" "dynn_Cervera" }
+			{ "dynnp_de" "dynn_Torroja" }
+			{ "dynnp_d_" "dynn_Aniort" }
+			{ "dynnp_de" "dynn_XE_rica" }
+			{ "dynnp_del" "dynn_Rei" }
+			{ "dynnp_de" "dynn_PinO_s" }
+			{ "dynnp_de" "dynn_Vilaragut" }
+			{ "dynnp_del" "dynn_Port" }
+			{ "dynnp_de" "dynn_Castre" }
+			{ "dynnp_de" "dynn_Canet" }
+			{ "dynnp_de" "dynn_Sa_Roca" }
+			{ "dynnp_de" "dynn_Thous" }
+			"dynn_March"
+			{ "dynnp_de" "dynn_Corbera" }
+			{ "dynnp_de" "dynn_Montsoriu" }
+			"dynn_Despuig"
+			{ "dynnp_d_" "dynn_Almenara" }
+			{ "dynnp_de" "dynn_Castellvell" }
+			{ "dynnp_de" "dynn_TA_rrega" }
+			{ "dynnp_de" "dynn_CastellO_" }
+			"dynn_Urgell"
+			{ "dynnp_d_" "dynn_EmpU_ries" }
+			{ "dynnp_del" "dynn_RipollE_s" }
+			{ "dynnp_d_" "dynn_Amador" }
+			{ "dynnp_de" "dynn_Cardona" }
+			{ "dynnp_de" "dynn_Montcada" }
+			{ "dynnp_de" "dynn_Mataplana" }
+			{ "dynnp_de" "dynn_Cardona" }
+			{ "dynnp_d_" "dynn_Erill" }
+			{ "dynnp_d_" "dynn_en_Bas" }
+			"dynn_RocO_"
+			{ "dynnp_de" "dynn_Sant_MartI_" }
+			"dynn_GarC_adO_"
+			{ "dynnp_de" "dynn_Sales" }
+			{ "dynnp_de" "dynn_RibellE_s" }
+			{ "dynnp_de" "dynn_MontclU_s" }
+			{ "dynnp_de" "dynn_Castellet" }
+			{ "dynnp_de" "dynn_CervellO_" }
+			{ "dynnp_d_" "dynn_AntillO_" }
+			{ "dynnp_de" "dynn_Palafolls" }
+			{ "dynnp_de" "dynn_Castellnou" }
+			"dynn_Descatllar"
+			{ "dynnp_de" "dynn_Cabrenys" }
+			{ "dynnp_d_" "dynn_Anglesola" }
+			"dynn_Alemany"
+			{ "dynnp_de" "dynn_CruI_lles" }
+			{ "dynnp_de" "dynn_Pontiac" }
+			{ "dynnp_de" "dynn_Rocafull" }
+			{ "dynnp_d_" "dynn_A_ger" }
+			"dynn_PonC__de_Minerva"
+			{ "dynnp_de" "dynn_Tarragona" }
+			"dynn_Ferrer"
+			{ "dynnp_de" "dynn_Lleida" }
+			{ "dynnp_d_" "dynn_EmpordA_" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Mallorca" }
+			{ "dynnp_d_" "dynn_EntenC_a" }
+			{ "dynnp_d_" "dynn_Urgell" }
+			{ "dynnp_de" "dynn_Vilademuls" }
+			{ "dynnp_d_" "dynn_Anoia" }
+			{ "dynnp_d_" "dynn_AragO_" }
+			{ "dynnp_de" "dynn_Montcada" }
+			{ "dynnp_de" "dynn_LluC_A_" }
+			{ "dynnp_d_" "dynn_EmpU_ries" }
+			{ "dynnp_de" "dynn_Ribera" }
+			{ "dynnp_d_" "dynn_Urgell" }
+			"dynn_Barcino"
+			{ "dynnp_de" "dynn_ValE_ncia" }
+			{ "dynnp_de" "dynn_Gandia" }
+			{ "dynnp_d_" "dynn_AragO_" }
+			{ "dynnp_de" "dynn_Villena" }
+			{ "dynnp_de" "dynn_Figueroa" }
+			"dynn_Desllor"
+			{ "dynnp_de" "dynn_Tost" }
+			{ "dynnp_de" "dynn_CastellbO_" }
+			{ "dynnp_de" "dynn_Cervera" }
+			{ "dynnp_de" "dynn_Torroja" }
+			{ "dynnp_d_" "dynn_Aniort" }
+			{ "dynnp_de" "dynn_XE_rica" }
+			{ "dynnp_del" "dynn_Rei" }
+			{ "dynnp_de" "dynn_PinO_s" }
+			{ "dynnp_de" "dynn_Vilaragut" }
+			{ "dynnp_del" "dynn_Port" }
+			{ "dynnp_de" "dynn_Castre" }
+			{ "dynnp_de" "dynn_Canet" }
+			{ "dynnp_de" "dynn_Sa_Roca" }
+			{ "dynnp_de" "dynn_Thous" }
+			"dynn_March"
+			{ "dynnp_de" "dynn_Corbera" }
+			{ "dynnp_de" "dynn_Montsoriu" }
+			"dynn_Despuig"
+			{ "dynnp_d_" "dynn_Almenara" }
+			{ "dynnp_de" "dynn_Castellvell" }
+			{ "dynnp_de" "dynn_TA_rrega" }
+			{ "dynnp_de" "dynn_CastellO_" }
+			"dynn_Urgell"
+			{ "dynnp_d_" "dynn_EmpU_ries" }
+			{ "dynnp_del" "dynn_RipollE_s" }
+			{ "dynnp_d_" "dynn_Amador" }
+			{ "dynnp_de" "dynn_Cardona" }
+			{ "dynnp_de" "dynn_Montcada" }
+			{ "dynnp_de" "dynn_Mataplana" }
+			{ "dynnp_de" "dynn_Cardona" }
+			{ "dynnp_d_" "dynn_Erill" }
+			{ "dynnp_d_" "dynn_en_Bas" }
+			"dynn_RocO_"
+			{ "dynnp_de" "dynn_Sant_MartI_" }
+			"dynn_GarC_adO_"
+			{ "dynnp_de" "dynn_Sales" }
+			{ "dynnp_de" "dynn_RibellE_s" }
+			{ "dynnp_de" "dynn_MontclU_s" }
+			{ "dynnp_de" "dynn_Castellet" }
+			{ "dynnp_de" "dynn_CervellO_" }
+			{ "dynnp_d_" "dynn_AntillO_" }
+			{ "dynnp_de" "dynn_Palafolls" }
+			{ "dynnp_de" "dynn_Castellnou" }
+			"dynn_Descatllar"
+			{ "dynnp_de" "dynn_Cabrenys" }
+			{ "dynnp_d_" "dynn_Anglesola" }
+			"dynn_Alemany"
+			{ "dynnp_de" "dynn_CruI_lles" }
+			{ "dynnp_de" "dynn_Pontiac" }
+			{ "dynnp_de" "dynn_Rocafull" }
+			{ "dynnp_d_" "dynn_A_ger" }
+			"dynn_PonC__de_Minerva"
+			{ "dynnp_de" "dynn_Tarragona" }
+			"dynn_Ferrer"
+			{ "dynnp_de" "dynn_Lleida" }
+			{ "dynnp_d_" "dynn_EmpordA_" }
+		}
+
+		male_names = {
+			Alfons AAlvar Arnau Arnau-MirO_ Artau Benet Berenguer Berenguer-Ramon Berenguer-Renard Bermond
+			Bernat Bernat-Amat Bernat-Guillem Bernat-Hug Bertran Borrell Carles Dalmau Dalmau-Berenguer Deodat
+			DI_dac Enric Ermengol Felip Felip-Dalmau Ferran Frederic GalcerA_ Gausbert Gausfred
+			Gerard Gombau Guerau GuifrE_ Guillem Guillem-GalcerA_ Guillem-JordA_ Guillem-Ramon Guislabert Hug
+			Hug-JofrE_ Jaume Joan Joan-Guerau JofrE_ Llop Lluis Manel Mateu MirO_
+			Munio NapoleO_ NunO_ Oliba Ott Pagan Pere Pere-Amat Pere-Ramon PonC_
+			PonC_-Hug Radulf Ramir Ramon Ramon-Berenguer Ramon-Borrell Renard Riculf Roderic Roger
+			Roger-Bernat SanC_ Sunifred Sunyer Tetbald Udalard
+		}
+		female_names = {
+			Adelaida AgnE_s Alamanda AldonC_a Algaburga Almodis Angarina Anglesa Arnaua
+			Arsenda Aurembaix Ava Beatriu Beliarda Berenguera Blanca Brunisenda Caterina CecI_lia
+			Cesarea Clemencia ConstanC_a DolC_a Eldionda Elionor Elisenda Elvira Ermenerda Ermengarda
+			Ermessenda Esclaramunda Estefania Flor Gaia  Galceranda Gausfredina Gotruda Gueraua Guillelma
+			Guinidilda Guisla Isabel Isabel-Sibila Joana Jusiana Laura Ledgarda LlU_cia Mahalta
+			Maior Margarida Maria Marquesa Miraglia MU_nia MU_niadomna Nicolesa O_ria Peronella
+			Ralinda Ramona Ricarda Riquilda SanC_a Saura Sesenanda Sibila Teresa Timbor
+			Toda Urraca ValE_ncia Violant Ximena
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+		grammar_transform = french
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 10
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		ethnicities = {
+			10 = mediterranean
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_gran_companyia_catalana" coat_of_arms = "mc_gran_companyia_catalana" }
+		}
+	}
+	
+	aragonese = {
+		
+		color = { 193 160 77  }
+
+		cadet_dynasty_names = {
+			"dynn_AragonE_s"
+			{ "dynnp_d_" "dynn_AlagO_n" }
+			{ "dynnp_d_" "dynn_AlbarrazI_n" }
+			{ "dynnp_d_" "dynn_Alcampell" }
+			{ "dynnp_d_" "dynn_Alcanyiz" }
+			{ "dynnp_d_" "dynn_Alpuente" }
+			{ "dynnp_d_" "dynn_Andorra" }
+			{ "dynnp_d_" "dynn_AnsO_" }
+			{ "dynnp_d_" "dynn_AragO_n" }
+			{ "dynnp_d_" "dynn_Ayerbe" }
+			{ "dynnp_de" "dynn_Balbastro" }
+			{ "dynnp_de" "dynn_Belchit" }
+			{ "dynnp_de" "dynn_BinE_far" }
+			{ "dynnp_de" "dynn_Borcha" }
+			{ "dynnp_de" "dynn_Calaceite" }
+			{ "dynnp_de" "dynn_Calamocha" }
+			{ "dynnp_de" "dynn_CalatayU_" }
+			{ "dynnp_de" "dynn_Casp" }
+			{ "dynnp_de" "dynn_Chaca" }
+			{ "dynnp_de" "dynn_Daroca" }
+			{ "dynnp_del" "dynn_Ebro" }
+			{ "dynnp_d_" "dynn_Epila" }
+			{ "dynnp_d_" "dynn_Exea" }
+			{ "dynnp_de" "dynn_Fraga" }
+			{ "dynnp_del" "dynn_Galligo" }
+			{ "dynnp_de" "dynn_Gotor" }
+			{ "dynnp_d_" "dynn_I_xar" }
+			{ "dynnp_de" "dynn_Luna" }
+			{ "dynnp_del" "dynn_Maestrazgo" }
+			{ "dynnp_del" "dynn_Moncayo" }
+			{ "dynnp_de_los" "dynn_Monegros" }
+			{ "dynnp_de" "dynn_MonzO_n" }
+			{ "dynnp_de" "dynn_Ribagorza" }
+			{ "dynnp_de" "dynn_SariN_ena" }
+			{ "dynnp_de" "dynn_Sobrarbe" }
+			{ "dynnp_de" "dynn_Tarazona" }
+			{ "dynnp_de" "dynn_Teruel" }
+			{ "dynnp_d_" "dynn_Uncastiello" }
+			{ "dynnp_d_" "dynn_Uesca" }
+			{ "dynnp_d_" "dynn_Utrillas" }
+			{ "dynnp_de" "dynn_Villanueva" }
+			{ "dynnp_del" "dynn_XalO_n" }
+			{ "dynnp_del" "dynn_Xiloca" }
+			{ "dynnp_de" "dynn_Zaragoza" }
+			{ "dynnp_de" "dynn_Zuera" }
+		}
+
+		dynasty_names = {
+			"dynn_A_lvarez"
+			"dynn_AznA_rez"
+			"dynn_AlfO_nsez"
+			"dynn_BermU_dez"
+			"dynn_BlA_zquez"
+			"dynn_DI_az"
+			"dynn_EnnE_guez"
+			"dynn_EnrI_quez"
+			"dynn_EstE_vez"
+			"dynn_FerrA_ndez"
+			"dynn_FortU_n"
+			"dynn_GalI_ndez"
+			"dynn_GarcE_s"
+			"dynn_Gil"
+			"dynn_GirA_ldez"
+			"dynn_GO_mez"
+			"dynn_GonzA_lez"
+			"dynn_GuillE_n"
+			"dynn_IbA_N_ez"
+			"dynn_LO_pez"
+			"dynn_Manrique"
+			"dynn_Manuel"
+			"dynn_MartI_nez"
+			"dynn_MuN_oz"
+			"dynn_NU_N_ez"
+			"dynn_Palafox"
+			"dynn_PE_rez"
+			"dynn_RemI_riz"
+			"dynn_Rivera"
+			"dynn_RuI_z"
+			"dynn_SA_nchez"
+			"dynn_Varela"
+			"dynn_XimE_nez"
+			{ "dynnp_de" "dynn_Balbastro" }
+			{ "dynnp_de" "dynn_Borja" }
+			{ "dynnp_de" "dynn_Chaca" }
+			{ "dynnp_de" "dynn_Fraga" }
+			{ "dynnp_de" "dynn_Sobrarbe" }
+			{ "dynnp_de" "dynn_Ribagorza" }
+			{ "dynnp_de" "dynn_Risnal" }
+		}
+
+		male_names = {
+			A_lbar Alifonso Armengol Artal Aznar Berenguer Bernat BertrA_n Blasco Chaime
+			Chil Chuan Diago Eneco Felipe Ferrando FortU_n Frederico GarcI_a GO_mez
+			Gonzalo GuillE_n Guiral Henrique Hermenechildo Isteban Lope Manrique Manuel MartI_n
+			Munio NuN_o Pero Ponz Remiro RemO_n Rodrigo Sancho Tibalt Veremundo
+			XimE_n
+		}
+		female_names = {
+			AgnE_s Albira Aldonza Alionor Andregoto Beatriz Blanca Caterina Chuana Costanza
+			Dulzis Eba Eilo Ermisenda EstefanI_a Gotruda Isabela Mafalda Margalida MarI_a
+			Marquesa Mayor MencI_a MI_lia Munia Muniadona Peironela Sancha Talesa Toda
+			Urraca Violant Ximena
+		}
+		
+		dynasty_of_location_prefix = "dynnp_de"
+		
+		patronym_suffix_male = "dynnpat_suf_iz"
+		patronym_suffix_female = "dynnpat_suf_iz"
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		ethnicities = {
+			10 = mediterranean
+		}
+	}
+	
+}
