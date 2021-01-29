@@ -67,6 +67,8 @@
  byzantine_group_collective_noun:1 "Byzantines"
  greek:0 "Rhōmaîoi"
  greek_collective_noun:1 "Rhōmaî"
+ athenian:0 "Attic"
+ athenian_collective_noun:1 "Atticians"
  laconian:0 "Laconian"
  laconian_collective_noun:1 "Laconians"
  macedonian:0 "Macedonian"

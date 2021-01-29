@@ -1288,7 +1288,98 @@
 		}
 	}
 	
-			macedonian = {
+	macedonian = {
+		
+		color = { 148 0 138 }
+
+		cadet_dynasty_names = {
+			"dynn_Argead"
+			"dynn_Antipatrid"
+			"dynn_Antigonid"
+			"dynn_Selleucid"
+			"dynn_Nicator"
+			"dynn_Ptolemaid"
+			"dynn_Soter"
+			"dynn_Seleucid"
+			"dynn_Theos"
+			"dynn_Eurythemid"
+			"dynn_Nikephoros"
+			"dynn_Aniketos"
+			"dynn_Polemonid"
+			"dynn_Alexandrakis"
+			"dynn_Philipid"
+			"dynn_Etesias"
+			"dynn_Gonatas"
+			"dynn_Doson"
+			"dynn_Aetolikos"
+			"dynn_Poliorcetes"
+        }
+
+		dynasty_names = {
+			"dynn_Argead"
+			"dynn_Antipatrid"
+			"dynn_Antigonid"
+			"dynn_Selleucid"
+			"dynn_Nicator"
+			"dynn_Ptolemaid"
+			"dynn_Soter"
+			"dynn_Seleucid"
+			"dynn_Theos"
+			"dynn_Eurythemid"
+			"dynn_Nikephoros"
+			"dynn_Aniketos"
+			"dynn_Polemonid"
+			"dynn_Alexandrakis"
+			"dynn_Philipid"
+			"dynn_Etesias"
+			"dynn_Gonatas"
+			"dynn_Doson"
+			"dynn_Aetolikos"
+			"dynn_Poliorcetes"
+        }
+
+
+		male_names = {
+			Makedonos Caranus Koinos Tyrimmas Perdiccas Argaeus Philip Aeropos Alcetas Amnytas Alexander Alcetas Perdiccas Archelaus Orestes Pausanias Ptolemy
+			Antipater Cassander Demetrius Lysimachus Meleager Sosthenes Pyrrhus Perseus Andriskos Parmenion Attalus Hephaestion Seleucus Aristonous Arybbas Balacrus Demetrius Leonnatus
+			Lysimachus Menes Peithon Peucestas Cleitus Coenus Sopolis Heraclides Peroidas Socrates Hegelochus Amyntas Calas Agathon Athaemenes Glaucias Nicanor
+			Craterus Gorgias Meneander Philotas Polyperchon Simmias Proteas Amphoterus Nearchus Archon Archias Achilleus Demonikos Metron Mylleas
+			Nicarchides Ophellas Pantauchus Timanthes Agathon Arrhidaeus Asander Coragus Derdas Eudemos Harpalus Iollas Lagus Menedemus Nicandor Philoxenus
+			Teutamus Tlepolemus Pythophanes Antigonus Apollodorus Amerias Poseidonos Samus Oikiades Stobaeus Parmenon Hermagoras Herophon Adymus
+			Evander Adymus Agathanor Hadymos Leon Zoilos Apollophanes Heliocles Menander Eucratides Diodotus Olympias Leonnatos Ceranaunos 
+		}
+		
+		female_names = {
+			Arsinoe Belistiche Cleopatra Cynane Eurydice Lanike Nicaea Nicesipolis Olimpias Phila Philinna Siratonice Thessalonica Antipatra Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Aigidia Eirene Elaiodora Epiphania Eudokia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Hypatia Ioanna Ioulia Iouliana Ioustina Kale Konstantia Konstantine Kyra Kyriake
+			Leontia Margarita Maria Markia Martha Melissa Nikarete Nikoletta Nonna Parthena Pavlina Pelagia Petronia Philippa Phyllis Pulcheria Rhodanthe Romane Romylia Sergia Sibylla
+			Simonis Sophia Stephania Thekla Theochariste Theodora Theodosia Theognosia Theoktiste Theophano Thomais Valeria Viviana Xene Zenobia Zoe
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 50
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = mediterranean_byzantine
+		}
+		
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_hoplites_of_place" }
+		}
+	}
+	athenian = {
 		
 		color = { 148 0 138 }
 

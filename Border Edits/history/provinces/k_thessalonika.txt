@@ -188,7 +188,7 @@
 ###c_thessalonika
 ###c_thessalonika
 490 = {	# 490 - Thessalonike / b_thessaloniki
-	culture = greek
+	culture = macedonian 
 	religion = orthodox
 	
 	holding = cow_metropolis_holding
